@@ -7,7 +7,10 @@ apt-get install python-pip
 pip install shadowsocks
 
 IP=$(curl -s -4 icanhazip.com)
-    
+    if [[ "$IP" = "" ]]; then
+        IP=$(curl -s -4 ipinfo.io/ip)
+    fi
+    echo -e "Your main public IP is\t\033[32m$IP\033[0m"
 
 cat >> /etc/shadowsocks.json <<-EOF
 {
