@@ -17,10 +17,10 @@ cat >> /etc/shadowsocks.json <<-EOF
 }
 EOF
 
-#启动SS
+#脝么露炉SS
 ssserver -c /etc/shadowsocks.json -d start
 
-#优化SS
+#脫脜禄炉SS
 echo "* soft nofile 51200" >> /etc/security/limits.conf
 echo "* hard nofile 51200" >> /etc/security/limits.conf
 ulimit -n 51200
