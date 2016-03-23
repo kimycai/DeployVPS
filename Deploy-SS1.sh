@@ -7,10 +7,7 @@ apt-get install python-pip
 pip install shadowsocks
 
 IP=$(curl -s -4 icanhazip.com)
-    if [[ "$IP" = "" ]]; then
-        IP=$(curl -s -4 ipinfo.io/ip)
-    fi
-    echo -e "Your main public IP is\t\033[32m$IP\033[0m"
+    
 
 cat >> /etc/shadowsocks.json <<-EOF
 {
@@ -23,10 +20,10 @@ cat >> /etc/shadowsocks.json <<-EOF
 }
 EOF
 
-#启动SS
+#脝么露炉SS
 ssserver -c /etc/shadowsocks.json -d start
 
-#优化SS
+#脫脜禄炉SS
 echo "* soft nofile 51200" >> /etc/security/limits.conf
 echo "* hard nofile 51200" >> /etc/security/limits.conf
 ulimit -n 51200
