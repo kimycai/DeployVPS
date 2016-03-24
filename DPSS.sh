@@ -56,7 +56,7 @@ net.ipv4.tcp_congestion_control = hybla
 EOF
 
 sysctl -p
-
+echo -e "Your main public IP is\t\033[32m$IP\033[0m"
 echo -e "server_port:\t\033[32m443\033[0m"
 echo -e "local_port:\t\033[32m1080\033[0m"
 echo -e "password:\t\033[32mCym9631514404\033[0m"
