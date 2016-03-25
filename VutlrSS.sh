@@ -8,10 +8,9 @@ pip install shadowsocks
 
 IP=$(curl -s -4 icanhazip.com)
     if [[ "$IP" = "" ]]; then
-        IP=$(curl -s -4 ipinfo.io/ip)
+    IP=$(curl -s -4 ipinfo.io/ip)
     fi
-   
-
+    
 cat >> /etc/shadowsocks.json <<-EOF
 {
 "server":"${IP}",
