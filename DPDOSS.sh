@@ -3,14 +3,18 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 apt-get update
+apt-get install curl
 apt-get install python-pip
 pip install shadowsocks
 
-
+IP=$(curl -s -4 icanhazip.com)
+    if [[ "$IP" = "" ]]; then
+        IP=$(curl -s -4 ipinfo.io/ip)
+    fi
 
 cat >> /etc/shadowsocks.json <<-EOF
 {
-"server":"188.166.175.163",
+"server":"${IP}",
 "server_port":443,
 "local_port":1080,
 "password":"Cym9631514404",
@@ -21,6 +25,7 @@ EOF
 
 #启动SS
 ssserver -c /etc/shadowsocks.json -d start
+#ssserver -c /etc/shadowsocks.json -d stop
 
 #优化SS
 echo "* soft nofile 51200" >> /etc/security/limits.conf
@@ -53,6 +58,7 @@ EOF
 
 sysctl -p
 
+echo -e "Your main public IP is\t\033[32m$IP\033[0m"
 echo -e "server_port:\t\033[32m443\033[0m"
 echo -e "local_port:\t\033[32m1080\033[0m"
 echo -e "password:\t\033[32mCym9631514404\033[0m"
