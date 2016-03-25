@@ -1,0 +1,10 @@
+#部署DigitalOcean上的SS
+wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/DigitalOceanSS.sh
+chmod +x DigitalOceanSS.sh
+./DigitalOceanSS.sh 2>&1 | tee DigitalOceanSS.sh.log
+
+#部署Vultr上的SS
+wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/VultrSS.sh
+chmod +x VultrSS.sh
+./VultrSS.sh 2>&1 | tee VultrSS.sh.log
+
