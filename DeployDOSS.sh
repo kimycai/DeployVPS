@@ -2,13 +2,15 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-
+apt-get update
 apt-get install python-pip
 pip install shadowsocks
 
+
+
 cat >> /etc/shadowsocks.json <<-EOF
 {
-"server":"108.61.197.184",
+"server":"188.166.175.163",
 "server_port":443,
 "local_port":1080,
 "password":"Cym9631514404",
@@ -17,10 +19,11 @@ cat >> /etc/shadowsocks.json <<-EOF
 }
 EOF
 
-#Æô¶¯SS
+#启动SS
 ssserver -c /etc/shadowsocks.json -d start
+#ssserver -c /etc/shadowsocks.json -d stop
 
-#ÓÅ»¯SS
+#优化SS
 echo "* soft nofile 51200" >> /etc/security/limits.conf
 echo "* hard nofile 51200" >> /etc/security/limits.conf
 ulimit -n 51200
@@ -50,3 +53,8 @@ net.ipv4.tcp_congestion_control = hybla
 EOF
 
 sysctl -p
+echo -e "Your main public IP is\t\033[32m188.166.175.163\033[0m"
+echo -e "server_port:\t\033[32m443\033[0m"
+echo -e "local_port:\t\033[32m1080\033[0m"
+echo -e "password:\t\033[32mCym9631514404\033[0m"
+echo -e "method:\t\033[32mrc4-md5\033[0m"
