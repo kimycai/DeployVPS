@@ -2,19 +2,15 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-
+apt-get update
 apt-get install python-pip
 pip install shadowsocks
 
-IP=$(curl -s -4 icanhazip.com)
-    if [[ "$IP" = "" ]]; then
-        IP=$(curl -s -4 ipinfo.io/ip)
-    fi
-    echo -e "Your main public IP is\t\033[32m$IP\033[0m"
+
 
 cat >> /etc/shadowsocks.json <<-EOF
 {
-"server":"${IP}",
+"server":"188.166.175.163",
 "server_port":443,
 "local_port":1080,
 "password":"Cym9631514404",
@@ -56,7 +52,7 @@ net.ipv4.tcp_congestion_control = hybla
 EOF
 
 sysctl -p
-echo -e "Your main public IP is\t\033[32m$IP\033[0m"
+
 echo -e "server_port:\t\033[32m443\033[0m"
 echo -e "local_port:\t\033[32m1080\033[0m"
 echo -e "password:\t\033[32mCym9631514404\033[0m"
