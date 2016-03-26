@@ -18,7 +18,7 @@ cat >> /etc/shadowsocks.json <<-EOF
 "local_port":1080,
 "password":"Cym9631514404",
 "timeout":300,
-"method":"rc4-md5"
+"method":"aes-256-cfb"
 }
 EOF
 
@@ -58,4 +58,4 @@ echo -e "Your main public IP is\t\033[32m$IP\033[0m"
 echo -e "server_port:\t\033[32m443\033[0m"
 echo -e "local_port:\t\033[32m1080\033[0m"
 echo -e "password:\t\033[32mCym9631514404\033[0m"
-echo -e "method:\t\033[32mrc4-md5\033[0m"
+echo -e "method:\t\033[32maes-256-cfb\033[0m"
