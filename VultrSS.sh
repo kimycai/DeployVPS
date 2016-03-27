@@ -3,8 +3,8 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 
-apt-get install python-pip
-pip install shadowsocks
+apt-get -y install python-pip
+pip -y install shadowsocks
 
 IP=$(curl -s -4 icanhazip.com)
     if [[ "$IP" = "" ]]; then
