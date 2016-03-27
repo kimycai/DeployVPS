@@ -5,7 +5,7 @@ export PATH
 apt-get update
 apt-get -y install curl
 apt-get -y install python-pip
-pip -y install shadowsocks
+pip install shadowsocks
 
 IP=$(curl -s -4 icanhazip.com)
     if [[ "$IP" = "" ]]; then
