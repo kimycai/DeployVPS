@@ -19,7 +19,7 @@ cat >> /etc/shadowsocks.json <<-EOF
 "local_port":1080,
 "password":"Cym9631514404",
 "timeout":300,
-"method":"aes-256-cfb"
+"method":"rc4-md5"
 }
 EOF
 
