@@ -10,8 +10,7 @@ chmod +x VultrSS.sh
 
 
 #部署DigitalOcean 上的OPVPN
-wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/DPOpenVPN.sh
-chmod +x DPOpenVPN.sh
-./DPOpenVPN.sh 2>&1 | tee DPOpenVPN.sh.log
+wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/OpenVPNAS.sh
+chmod +x OpenVPNAS.sh
+./OpenVPNAS.sh 2>&1 | tee OpenVPNAS.sh.log
 
-DPOpenVPN.sh
