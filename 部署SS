@@ -9,8 +9,8 @@ chmod +x VultrSS.sh
 ./VultrSS.sh 2>&1 | tee VultrSS.sh.log
 
 
-#部署DigitalOcean 上的OPVPN
-wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/OpenVPNAS.sh
-chmod +x OpenVPNAS.sh
-./OpenVPNAS.sh 2>&1 | tee OpenVPNAS.sh.log
+#部署DigitalOcean 上的OPVPN(CentOS)
+curl -O https://raw.githubusercontent.com/kimycai/DeployVPS/master/CentOpenVPNAS.sh
+chmod +x CentOpenVPNAS.sh
+./CentOpenVPNAS.sh 2>&1 | tee CentOpenVPNAS.sh.log
 
