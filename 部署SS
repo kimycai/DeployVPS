@@ -14,3 +14,7 @@ curl -O https://raw.githubusercontent.com/kimycai/DeployVPS/master/CentOpenVPNAS
 chmod +x CentOpenVPNAS.sh
 ./CentOpenVPNAS.sh 2>&1 | tee CentOpenVPNAS.sh.log
 
+#部署DigitalOcean 上的OPVPN(Ubuntn 14)
+wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/DO-UBT-VPN.sh
+chmod +x DO-UBT-VPN.sh
+./DO-UBT-VPN.sh 2>&1 | tee DO-UBT-VPN.sh.log
