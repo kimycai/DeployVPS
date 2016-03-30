@@ -14,4 +14,4 @@ passwd openvpn
 #初始化配置
 echo "input "DELETE" and enter"
 echo "choose (1) to bind to all interfaces"
-/usr/local/openvpn_as/bin/ovpn-init
+#/usr/local/openvpn_as/bin/ovpn-init
