@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <!--Created on 27/3/2016 at 20:16:58 by co:1.2/su:1.9/ma:1.6/ti:1.1-->
+    <metadata>
+      <ttm:title>
+        ALPHABLOCKS - HDS017952
+      </ttm:title>
+      <ttm:copyright>
+        Red Bee Media 2016
+      </ttm:copyright>
+    </metadata>
+    <styling>
+      <style id="s2" style="s0" tts:color="cyan" />
+      <style id="s1" style="s0" tts:color="yellow" />
+      <style id="s3" style="s0" tts:color="lime" />
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:53:50.00" id="p0" end="00:53:57.04">.<br /></p>
+      <p begin="00:54:02.00" id="p1" end="00:54:04.32"># We can laugh ha-ha<br />We can sing la-la-la-la<br /></p>
+      <p begin="00:54:04.32" id="p2" end="00:54:06.04"># We can make anything<br /></p>
+      <p begin="00:54:06.04" id="p3" end="00:54:07.64"># Hold my hand<br /></p>
+      <p begin="00:54:07.64" id="p4" end="00:54:09.20"># Make a magical land<br /></p>
+      <p begin="00:54:09.20" id="p5" end="00:54:11.76"># When letters get together<br />we go alakazam<br /></p>
+      <p begin="00:54:11.76" id="p6" end="00:54:14.28"># We can run, we can slide<br />We can hide in a box<br /></p>
+      <p begin="00:54:14.28" id="p7" end="00:54:17.40"># Are you ready for some fun<br />with the Alphablocks?<br /></p>
+      <p begin="00:54:17.40" id="p8" end="00:54:18.92"># Alphablocks! #<br /></p>
+      <p begin="00:54:24.92" id="p9" end="00:54:27.44">SHE PANTS<br /></p>
+      <p style="s1" begin="00:54:40.20" id="p10" end="00:54:43.24">Hey! Hello, E!<br /></p>
+      <p style="s2" begin="00:54:43.24" id="p11" end="00:54:45.00">E!<br /></p>
+      <p style="s2" begin="00:54:45.00" id="p12" end="00:54:46.64">Hello, H!<br /></p>
+      <p style="s2" begin="00:54:46.64" id="p13" end="00:54:50.44">Exercising? Excellent!<br /></p>
+      <p style="s2" begin="00:54:50.44" id="p14" end="00:54:53.88">E! Exercise, everyone!<br /></p>
+      <p style="s2" begin="00:54:55.08" id="p15" end="00:54:56.88">Come on, N!<br /></p>
+      <p style="s3" begin="00:54:56.88" id="p16" end="00:54:58.08">Nn-nnn!<br /></p>
+      <p style="s3" begin="00:54:59.92" id="p17" end="00:55:01.76">Nn-nnn-nnn!<br /></p>
+      <p style="s1" begin="00:55:01.76" id="p18" end="00:55:02.80">H.<br /></p>
+      <p style="s2" begin="00:55:02.80" id="p19" end="00:55:03.84">E.<br /></p>
+      <p style="s3" begin="00:55:03.84" id="p20" end="00:55:04.88">N.<br /></p>
+      <p begin="00:55:04.88" id="p21" end="00:55:06.00">ALL: Hen!<br /></p>
+      <p begin="00:55:06.00" id="p22" end="00:55:08.20">Bwark! Bwark, bwaaaaaark!<br /></p>
+      <p style="s1" begin="00:55:09.52" id="p23" end="00:55:11.44">Hello, Hen!<br /></p>
+      <p begin="00:55:11.44" id="p24" end="00:55:12.48">Bwark!<br /></p>
+      <p begin="00:55:14.56" id="p25" end="00:55:17.04">Ooooo!<br /></p>
+      <p begin="00:55:17.04" id="p26" end="00:55:19.80">Bwark! B-bwaark!<br /></p>
+      <p begin="00:55:19.80" id="p27" end="00:55:22.56">Egg! Mmm-mmm!<br /></p>
+      <p style="s1" begin="00:55:22.56" id="p28" end="00:55:24.84">Hello, Egg!<br /></p>
+      <p style="s3" begin="00:55:24.84" id="p29" end="00:55:27.64">Nnn-nnnnn!<br /></p>
+      <p style="s2" begin="00:55:27.64" id="p30" end="00:55:31.08">E! N, it's only an egg!<br /></p>
+      <p begin="00:55:31.08" id="p31" end="00:55:32.88">Bwaaaark!<br /></p>
+      <p style="s1" begin="00:55:32.88" id="p32" end="00:55:36.64">Hey! Hen, you forgot your egg!<br /></p>
+      <p style="s1" begin="00:55:43.28" id="p33" end="00:55:45.04">Help!<br /></p>
+      <p style="s1" begin="00:55:45.04" id="p34" end="00:55:47.92">Hey, Egg! Come back here!<br /></p>
+      <p style="s1" begin="00:55:49.36" id="p35" end="00:55:51.12">Hurry, hurry!<br /></p>
+      <p style="s2" begin="00:55:52.56" id="p36" end="00:55:54.40">Ohhh!<br /></p>
+      <p style="s2" begin="00:55:54.40" id="p37" end="00:55:56.40">Ohhhh!<br /></p>
+      <p begin="00:55:56.40" id="p38" end="00:55:58.60">SHE HUFFS AND PUFFS<br /></p>
+      <p style="s3" begin="00:55:58.60" id="p39" end="00:56:01.52">Pop! I just popped in!<br /></p>
+      <p style="s3" begin="00:56:01.52" id="p40" end="00:56:03.32">Pretty!<br /></p>
+      <p style="s1" begin="00:56:03.32" id="p41" end="00:56:04.36">H.<br /></p>
+      <p style="s2" begin="00:56:04.36" id="p42" end="00:56:05.40">O.<br /></p>
+      <p style="s3" begin="00:56:05.40" id="p43" end="00:56:06.44">P.<br /></p>
+      <p begin="00:56:06.44" id="p44" end="00:56:08.48">ALL: Hop!<br /></p>
+      <p begin="00:56:09.40" id="p45" end="00:56:13.60">ALL: Hop, hop, hop, hop, hop, hop!<br /></p>
+      <p style="s1" begin="00:56:15.52" id="p46" end="00:56:19.08">Hooray! I'm just like hen!<br /></p>
+      <p begin="00:56:19.08" id="p47" end="00:56:21.80">CRACKING<br /></p>
+      <p style="s1" begin="00:56:21.80" id="p48" end="00:56:25.00">Hey! <span tts:color="cyan">Oh! </span>What's happening?<br /></p>
+      <p style="s2" begin="00:56:25.00" id="p49" end="00:56:27.28">O-oh! O-oh!<br /></p>
+      <p begin="00:56:28.88" id="p50" end="00:56:30.28">Mama!<br /></p>
+      <p style="s2" begin="00:56:30.28" id="p51" end="00:56:32.68">Oh!<br /></p>
+      <p begin="00:56:32.68" id="p52" end="00:56:35.72">Mama! <span tts:color="cyan">Oh-oh!<br /></span></p>
+      <p style="s2" begin="00:56:35.72" id="p53" end="00:56:37.60">O-o-o-o-o!<br /></p>
+      <p begin="00:56:37.60" id="p54" end="00:56:39.96">Mama! Mama!<br /></p>
+      <p style="s1" begin="00:56:39.96" id="p55" end="00:56:41.84">Hey, Egg!<br /></p>
+      <p style="s1" begin="00:56:41.84" id="p56" end="00:56:45.00">Hen's your mama, not O!<br /></p>
+      <p style="s2" begin="00:56:45.00" id="p57" end="00:56:48.24">Mm-mmm-mm.<br /></p>
+      <p begin="00:56:48.24" id="p58" end="00:56:50.76"><span tts:color="lime">Uh? </span>Mama?<br /></p>
+      <p style="s3" begin="00:56:50.76" id="p59" end="00:56:52.08">Uh-uh!<br /></p>
+      <p begin="00:56:52.08" id="p60" end="00:56:54.76">Mama! <span tts:color="lime">Uh-uh!!<br /></span></p>
+      <p style="s1" begin="00:56:54.76" id="p61" end="00:56:56.00">H.<br /></p>
+      <p style="s3" begin="00:56:56.00" id="p62" end="00:56:57.04">U.<br /></p>
+      <p style="s2" begin="00:56:57.04" id="p63" end="00:56:58.08">M.<br /></p>
+      <p begin="00:56:58.08" id="p64" end="00:57:00.04">ALL: Hum!<br /></p>
+      <p begin="00:57:00.04" id="p65" end="00:57:04.00">ALL HUM<br /></p>
+      <p begin="00:57:08.12" id="p66" end="00:57:10.08">ALL: Huh?<br /></p>
+      <p style="s3" begin="00:57:10.08" id="p67" end="00:57:11.52">Uh-uh!<br /></p>
+      <p begin="00:57:11.52" id="p68" end="00:57:12.68">EGG HUMS<br /></p>
+      <p style="s1" begin="00:57:12.68" id="p69" end="00:57:14.08"># Hum<br /></p>
+      <p style="s1" begin="00:57:14.08" id="p70" end="00:57:15.96"># Hum. #<br /></p>
+      <p style="s1" begin="00:57:15.96" id="p71" end="00:57:18.24">Humpty Dumpty sat on a wall.<br /></p>
+      <p style="s2" begin="00:57:18.24" id="p72" end="00:57:21.00"><span tts:color="yellow">Humpty Dumpty had a great... </span>Uh?<br /></p>
+      <p style="s1" begin="00:57:21.00" id="p73" end="00:57:22.04">Huh!<br /></p>
+      <p style="s1" begin="00:57:22.04" id="p74" end="00:57:25.20"><span tts:color="cyan">Mm-mmm! Mmmm! </span>Hey, M!<br /></p>
+      <p style="s2" begin="00:57:25.20" id="p75" end="00:57:28.80"><span tts:color="yellow">Don't eat the wall! </span>Ooh!<br /></p>
+      <p begin="00:57:28.80" id="p76" end="00:57:32.20">CRUMBLING AND CRASHING<br /></p>
+      <p begin="00:57:32.20" id="p77" end="00:57:35.36">BYOING<br />M!<br /></p>
+      <p style="s2" begin="00:57:35.36" id="p78" end="00:57:38.32">Mmmm! Back in a moment!<br /></p>
+      <p style="s1" begin="00:57:38.32" id="p79" end="00:57:39.64">Hurry, M!<br /></p>
+      <p style="s2" begin="00:57:42.48" id="p80" end="00:57:43.64">M.<br /></p>
+      <p style="s3" begin="00:57:43.64" id="p81" end="00:57:44.68">E.<br /></p>
+      <p begin="00:57:44.68" id="p82" end="00:57:46.28">N.<br /></p>
+      <p begin="00:57:46.28" id="p83" end="00:57:47.88">ALL: Men!<br /></p>
+      <p begin="00:57:47.88" id="p84" end="00:57:50.48">DRUMS PLAY<br /></p>
+      <p style="s3" begin="00:57:50.48" id="p85" end="00:57:52.44">All the King's men!<br /></p>
+      <p begin="00:57:52.44" id="p86" end="00:57:53.92">HORSES NEIGH<br /></p>
+      <p style="s3" begin="00:57:53.92" id="p87" end="00:57:56.72">And all the King's horses!<br /></p>
+      <p begin="00:57:56.72" id="p88" end="00:58:01.04">ALL: We can't put it back<br />together again!<br /></p>
+      <p begin="00:58:01.04" id="p89" end="00:58:04.40"><span tts:color="cyan">Wait! </span>Goodness me!<br /></p>
+      <p style="s1" begin="00:58:04.40" id="p90" end="00:58:05.96">H.<br /></p>
+      <p style="s3" begin="00:58:05.96" id="p91" end="00:58:07.00">U.<br /></p>
+      <p begin="00:58:07.00" id="p92" end="00:58:08.24">G.<br /></p>
+      <p begin="00:58:08.24" id="p93" end="00:58:10.68">ALL: Hug!<br /></p>
+      <p begin="00:58:10.68" id="p94" end="00:58:12.52">ALL: Hug!<br /></p>
+      <p begin="00:58:12.52" id="p95" end="00:58:13.96">ALL: Hug!<br /></p>
+      <p begin="00:58:13.96" id="p96" end="00:58:15.12">ALL: Hug!<br /></p>
+      <p begin="00:58:18.72" id="p97" end="00:58:19.92">Mama?<br /></p>
+      <p style="s3" begin="00:58:19.92" id="p98" end="00:58:21.00">Uh-uh!<br /></p>
+      <p style="s1" begin="00:58:21.00" id="p99" end="00:58:24.44">Hen's your mama,<br />chick, not U!<br /></p>
+      <p begin="00:58:24.44" id="p100" end="00:58:27.52">Mama! Mama!<br /></p>
+      <p style="s2" begin="00:58:27.52" id="p101" end="00:58:28.96">E!<br /></p>
+      <p begin="00:58:28.96" id="p102" end="00:58:31.16">Mama! Mama!<br /></p>
+      <p style="s3" begin="00:58:32.68" id="p103" end="00:58:34.76">&lt; Bwaark! B-b-bwaaaark!<br /></p>
+      <p begin="00:58:34.76" id="p104" end="00:58:36.84">Mama! Mama!<br /></p>
+      <p begin="00:58:36.84" id="p105" end="00:58:39.24">ALL: Awww!<br /></p>
+      <p style="s2" begin="00:58:39.24" id="p106" end="00:58:41.48">Uhhh!<br /></p>
+      <p begin="00:58:41.48" id="p107" end="00:58:42.68">Da-da?<br /></p>
+      <p style="s2" begin="00:58:42.68" id="p108" end="00:58:44.28">Uh?!<br /></p>
+      <p begin="00:58:44.28" id="p109" end="00:58:46.68">Da-da? <span tts:color="cyan">Uh-uh!<br /></span></p>
+      <p style="s2" begin="00:58:46.68" id="p110" end="00:58:48.52">U-u-u-u-uh!<br /></p>
+      <p begin="00:58:48.52" id="p111" end="00:58:50.56">GIGGLING<br /></p>
+      <p begin="00:58:50.56" id="p112" end="00:58:52.00">CLUCKING<br /></p>
+      <p begin="00:58:54.92" id="p113" end="00:58:57.96">Subtitles by Red Bee Media Ltd<br /></p>
+    </div>
+  </body>
+</tt>
