@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/alphablocks-series
+youtube-dl --write-sub -f best --batch-file alphablocks-series
