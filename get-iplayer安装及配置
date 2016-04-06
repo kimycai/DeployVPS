@@ -14,5 +14,15 @@ get_iplayer
 --pvr #run PVR
 --pvr-list #显示列表
 --pid-recursive #返回列表
-get_iplayer --pvr-add=RaaRaaNoisyLion "Raa Raa the Noisy Lion" --modes=best --type=tv --subtitles
+get_iplayer --pvr-add=GetSquiggling "Get Squiggling" --modes=best --type=tv --subtitles
 get_iplayer --pvr
+get_iplayer --pid b009069f --pid-recursive --modes=best --type=tv --subtitles
+######################################################
+Raa Raa the Noisy Lion http://www.bbc.co.uk/programmes/b01bsr61
+Tilly and Friends http://www.bbc.co.uk/programmes/b01ld6gq
+Sarah & Duck http://www.bbc.co.uk/programmes/b04drklx
+Alphablocks http://www.bbc.co.uk/programmes/b01cz0p1
+Boj http://www.bbc.co.uk/programmes/b0511xc6
+Spot Bots
+Get Squiggling http://www.bbc.co.uk/programmes/b009069f
+
