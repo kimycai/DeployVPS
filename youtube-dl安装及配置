@@ -5,4 +5,4 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 youtube-dl
 --batch-file FILE
 --write-sub
---format best
+--format best[fps=25]
