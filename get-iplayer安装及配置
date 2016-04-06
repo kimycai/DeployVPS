@@ -14,3 +14,5 @@ get_iplayer
 --pvr #run PVR
 --pvr-list #显示列表
 --pid-recursive #返回列表
+get_iplayer --pvr-add=RaaRaaNoisyLion "Raa Raa the Noisy Lion" --modes=best --type=tv --subtitles
+get_iplayer --pvr
