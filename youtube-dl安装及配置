@@ -1,8 +1,16 @@
 #安装youtube-dl
+apt-get install python-minimal
+apt-get install python-pip
+sudo pip install youtube-dl
+
 sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
 
 youtube-dl
 --batch-file FILE
 --write-sub
---format best[fps=25]
+--format best
+
+
+youtube-dl --write-sub --format best http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
+
