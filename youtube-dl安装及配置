@@ -10,6 +10,9 @@ youtube-dl
 --batch-file FILE
 --write-sub
 --format best
+--embed-subs
+--convert-subs FORMAT
+--sub-format FORMAT srt|ass
 
 
 youtube-dl --write-sub --format best http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
