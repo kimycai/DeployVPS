@@ -1,7 +1,7 @@
 #安装get-iplayer,command:get_iplayer
 sudo apt-add-repository ppa:jon-hedgerows/get-iplayer
 sudo apt-get update
-sudo apt-get install get-iplayer
+sudo apt-get -y install get-iplayer
 sudo apt-get install rtmpdump
 ####################################################################
 get_iplayer
@@ -16,11 +16,15 @@ get_iplayer
 --pid-recursive #返回列表
 get_iplayer --pvr-add=GetSquiggling "Get Squiggling" --modes=best --type=tv --subtitles
 get_iplayer --pvr
-get_iplayer --pid b009069f --pid-recursive --modes=best --type=tv --subtitles
-get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
+get_iplayer --pid b01qv20s --pid-recursive --modes=best --type=tv --subsonly
+get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbeebies/episode/b01bqv0d/raa-raa-the-noisy-lion-series-2-4-boing-boing
 --force
-
+--subsonly
+--proxy http://USERNAME:PASSWORD@SERVER:PORT
 ######################################################
+Get Squiggling! Letters http://www.bbc.co.uk/programmes/b01qv20s
+In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
+
 Raa Raa the Noisy Lion http://www.bbc.co.uk/programmes/b01bsr61
 Tilly and Friends http://www.bbc.co.uk/programmes/b01ld6gq
 Sarah & Duck http://www.bbc.co.uk/programmes/b04drklx
