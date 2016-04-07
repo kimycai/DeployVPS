@@ -19,4 +19,6 @@ youtube-dl
 
 
 youtube-dl --write-sub --convert-subs srt --format best http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
-
+TillyandFriends
+wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/TillyandFriends
+youtube-dl --write-sub --convert-subs srt -f best --batch-file TillyandFriends
