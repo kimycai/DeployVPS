@@ -18,7 +18,9 @@ youtube-dl
 --sub-format FORMAT srt|ass
 
 
-youtube-dl --write-sub --convert-subs srt --format best http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
+youtube-dl --write-sub --convert-subs ass --format best http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
 TillyandFriends
-wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/TillyandFriends
-youtube-dl --write-sub --convert-subs srt -f best --batch-file TillyandFriends
+
+批量下载
+wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/sarah-duck-series-b04drklx
+youtube-dl --write-sub --convert-subs ass -f best --batch-file sarah-duck-series-b04drklx
