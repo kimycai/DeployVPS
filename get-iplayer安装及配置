@@ -16,11 +16,14 @@ get_iplayer
 --pid-recursive #返回列表
 get_iplayer --pvr-add=GetSquiggling "Get Squiggling" --modes=best --type=tv --subtitles
 get_iplayer --pvr
-get_iplayer --pid b04drklx --pid-recursive --modes=best --type=tv --subtitles
+get_iplayer --pid b0070s19,b01bsr61,b01ld6gq,b04drklx,b01cz0p1,b0511xc6,b05zfxkz,b009069f --pid-recursive --modes=best --type=tv --subtitles
 get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbeebies/episode/b01bqv0d/raa-raa-the-noisy-lion-series-2-4-boing-boing
 --force
 --subsonly
---proxy http://USERNAME:PASSWORD@SERVER:PORT
+--subdir,	Put Recorded files into Programme name subdirectory
+--mkv	Output video in MKV container instead of MP4. There is no metadata tagging support for MKV output.
+--plugins-update
+--update
 ######################################################
 Get Squiggling! Letters http://www.bbc.co.uk/programmes/b01qv20s
 In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
