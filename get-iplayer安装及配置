@@ -27,12 +27,11 @@ get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbee
 --update
 ######################################################
 Get Squiggling! Letters http://www.bbc.co.uk/programmes/b01qv20s
-In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
 Charlie and Lola http://www.bbc.co.uk/programmes/b0070s19
 Raa Raa the Noisy Lion http://www.bbc.co.uk/programmes/b01bsr61
-Tilly and Friends http://www.bbc.co.uk/programmes/b01ld6gq
 Sarah & Duck http://www.bbc.co.uk/programmes/b04drklx
 Alphablocks http://www.bbc.co.uk/programmes/b01cz0p1
+Tilly and Friends http://www.bbc.co.uk/programmes/b01ld6gq
 Boj http://www.bbc.co.uk/programmes/b0511xc6
 Clangers http://www.bbc.co.uk/programmes/b05zfxkz
 Get Squiggling http://www.bbc.co.uk/programmes/b009069f
@@ -46,3 +45,4 @@ The Numtums http://www.bbc.co.uk/programmes/b03tzxyg
 Octonauts http://www.bbc.co.uk/programmes/b00xhyjf
 Topsy and Tim http://www.bbc.co.uk/programmes/b0499l2q
 Wussywat the Clumsy Cat http://www.bbc.co.uk/programmes/b060cb6v
+In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
