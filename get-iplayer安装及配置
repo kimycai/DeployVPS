@@ -16,7 +16,7 @@ get_iplayer
 --pid-recursive #返回列表
 get_iplayer --pvr-add=GetSquiggling "Get Squiggling" --modes=best --type=tv --subtitles
 get_iplayer --pvr
-get_iplayer --pid b01qv20s,b0070s19,b01bsr61,b04drklx,b01cz0p1 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+get_iplayer --pid b01ld6gq,b0511xc6,b05zfxkz,b009069f,b00w1ddl --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbeebies/episode/b01bqv0d/raa-raa-the-noisy-lion-series-2-4-boing-boing
 --force
 --subsonly
@@ -25,6 +25,7 @@ get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbee
 --mkv
 --plugins-update
 --update
+--series
 ######################################################
 Get Squiggling! Letters http://www.bbc.co.uk/programmes/b01qv20s
 Charlie and Lola http://www.bbc.co.uk/programmes/b0070s19
@@ -35,9 +36,9 @@ Tilly and Friends http://www.bbc.co.uk/programmes/b01ld6gq
 Boj http://www.bbc.co.uk/programmes/b0511xc6
 Clangers http://www.bbc.co.uk/programmes/b05zfxkz
 Get Squiggling http://www.bbc.co.uk/programmes/b009069f
+I Can Cook http://www.bbc.co.uk/programmes/b00w1ddl
 Dinopaws http://www.bbc.co.uk/programmes/b03wh7g5
 Everything's Rosie http://www.bbc.co.uk/programmes/b011mt5h
-I Can Cook http://www.bbc.co.uk/programmes/b00w1ddl
 Kate and Mim-Mim http://www.bbc.co.uk/programmes/b04d0x6b
 My Pet and Me http://www.bbc.co.uk/programmes/b06r15z2
 Nelly & Nora http://www.bbc.co.uk/programmes/b051wj60
@@ -46,3 +47,4 @@ Octonauts http://www.bbc.co.uk/programmes/b00xhyjf
 Topsy and Tim http://www.bbc.co.uk/programmes/b0499l2q
 Wussywat the Clumsy Cat http://www.bbc.co.uk/programmes/b060cb6v
 In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
+get_iplayer --pid b03wh7g5,b011mt5h,b04d0x6b,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b0499l2q,b060cb6v --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
