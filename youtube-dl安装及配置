@@ -18,7 +18,7 @@ youtube-dl
 --sub-format FORMAT srt|ass
 
 
-youtube-dl --write-sub --convert-subs ass --format best http://www.bbc.co.uk/iplayer/cbeebies/episode/b036mwgh/alphablocks-series-4-12-birthday-girl
+youtube-dl --write-sub -f 22 https://www.youtube.com/watch?v=BPiM-A_6wG8&nohtml5=False
 TillyandFriends
 
 批量下载
