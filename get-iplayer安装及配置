@@ -47,6 +47,7 @@ Octonauts http://www.bbc.co.uk/programmes/b00xhyjf
 Topsy and Tim http://www.bbc.co.uk/programmes/b0499l2q
 Wussywat the Clumsy Cat http://www.bbc.co.uk/programmes/b060cb6v
 In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
+Postman Pat http://www.bbc.co.uk/programmes/b01qv24w
 get_iplayer --pid b00tw8ly --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --get http://www.bbc.co.uk/iplayer/cbeebies/episode/b03v00zy/the-numtums-series-2-3-school-of-cool --modes=best --type=tv --subtitles --subdir --mkv --force
 
