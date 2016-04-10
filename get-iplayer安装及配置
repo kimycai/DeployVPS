@@ -42,9 +42,13 @@ Everything's Rosie http://www.bbc.co.uk/programmes/b011mt5h
 Kate and Mim-Mim http://www.bbc.co.uk/programmes/b04d0x6b
 My Pet and Me http://www.bbc.co.uk/programmes/b06r15z2
 Nelly & Nora http://www.bbc.co.uk/programmes/b051wj60
-The Numtums http://www.bbc.co.uk/programmes/b03tzxyg
+The Numtums http://www.bbc.co.uk/programmes/b03tzxyg        
 Octonauts http://www.bbc.co.uk/programmes/b00xhyjf
 Topsy and Tim http://www.bbc.co.uk/programmes/b0499l2q
 Wussywat the Clumsy Cat http://www.bbc.co.uk/programmes/b060cb6v
 In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
-get_iplayer --pid b03wh7g5,b011mt5h,b04d0x6b,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b0499l2q,b060cb6v --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+get_iplayer --pid b00tw8ly --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+get_iplayer --get http://www.bbc.co.uk/iplayer/cbeebies/episode/b03v00zy/the-numtums-series-2-3-school-of-cool --modes=best --type=tv --subtitles --subdir --mkv --force
+
+
+
