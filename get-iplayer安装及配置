@@ -10,6 +10,7 @@ get_iplayer
 --pid PID1,PID2,PID3
 --modes=best
 --type=tv
+--subtitles-only    #只下字幕，不下视频
 --subtitles #下载字幕
 --pvr-add=PVR_Name "PVR Name" #添加pvr项目
 --pvr #run PVR
