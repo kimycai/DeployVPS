@@ -3,6 +3,7 @@ sudo apt-add-repository ppa:jon-hedgerows/get-iplayer
 sudo apt-get update
 sudo apt-get -y install get-iplayer
 sudo apt-get install rtmpdump
+get_iplayer --plugins-update
 ####################################################################
 get_iplayer
  "Programme Name"
