@@ -20,4 +20,4 @@ chmod +x DO-UBT-VPN.sh
 ./DO-UBT-VPN.sh 2>&1 | tee DO-UBT-VPN.sh.log
 
 wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/download_history
-mv download_history /root/.get_iplayer/plugins/
+mv download_history /root/.get_iplayer/
