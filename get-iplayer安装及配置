@@ -3,14 +3,15 @@ sudo apt-add-repository ppa:jon-hedgerows/get-iplayer
 sudo apt-get update
 sudo apt-get -y install get-iplayer
 sudo apt-get install rtmpdump
-get_iplayer --plugins-update
+sudo get_iplayer --plugins-update
+wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/download_history
+mv download_history /root/.get_iplayer/
 ####################################################################
 get_iplayer
  "Programme Name"
 --pid PID1,PID2,PID3
 --modes=best
 --type=tv
---subtitles-only    #只下字幕，不下视频
 --subtitles #下载字幕
 --pvr-add=PVR_Name "PVR Name" #添加pvr项目
 --pvr #run PVR
@@ -18,7 +19,7 @@ get_iplayer
 --pid-recursive #返回列表
 get_iplayer --pvr-add=GetSquiggling "Get Squiggling" --modes=best --type=tv --subtitles
 get_iplayer --pvr
-get_iplayer --pid b01ld6gq,b0511xc6,b05zfxkz,b009069f,b00w1ddl --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+get_iplayer --pid b04vs4r9 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbeebies/episode/b01bqv0d/raa-raa-the-noisy-lion-series-2-4-boing-boing
 --force
 --subsonly
@@ -51,5 +52,5 @@ Wussywat the Clumsy Cat http://www.bbc.co.uk/programmes/b060cb6v
 In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
 Postman Pat http://www.bbc.co.uk/programmes/b01qv24w
 The Adventures of Abney & Teal http://www.bbc.co.uk/programmes/b01cc6m6
-get_iplayer --pid b01cc6m6 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+get_iplayer --pid b00wg01c --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --get http://www.bbc.co.uk/iplayer/cbeebies/episode/b03v00zy/the-numtums-series-2-3-school-of-cool --modes=best --type=tv --subtitles --subdir --mkv --force
