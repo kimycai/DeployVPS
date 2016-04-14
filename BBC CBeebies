@@ -36,7 +36,7 @@ Mister Maker's Arty Party|http://www.bbc.co.uk/programmes/b06s5kfp
 Mr Bloom: Here and There|http://www.bbc.co.uk/programmes/b04p2k9d
 Mr Bloom's Nursery|http://www.bbc.co.uk/programmes/b019jxqr
 My First|http://www.bbc.co.uk/programmes/b073m9yx
-My Pet and Me|http://www.bbc.co.uk/programmes/b06r15z2
+>My Pet and Me|http://www.bbc.co.uk/programmes/b06r15z2
 My Story|http://www.bbc.co.uk/programmes/b03m36wd
 >Nelly & Nora|http://www.bbc.co.uk/programmes/b051wj60
 Nina and the Neurons|http://www.bbc.co.uk/programmes/b006ygg7
@@ -61,18 +61,19 @@ Teletubbies|http://www.bbc.co.uk/programmes/b00703vg
 >Tilly and Friends|http://www.bbc.co.uk/programmes/b01ld6gq
 Timmy Time|http://www.bbc.co.uk/programmes/b00sjsy1
 >Tinga Tinga Tales|http://www.bbc.co.uk/programmes/b00wg01c
-Topsy and Tim|http://www.bbc.co.uk/programmes/b0499l2q
+>Topsy and Tim|http://www.bbc.co.uk/programmes/b0499l2q
 >Tree Fu Tom|http://www.bbc.co.uk/programmes/b03gtt33
 >Twirlywoos|http://www.bbc.co.uk/programmes/b064cqyf
 ###################################page5###################################
 Waybuloo|http://www.bbc.co.uk/programmes/b00tzxf7
-Woolly and Tig|http://www.bbc.co.uk/programmes/b01r7dfd
+>Woolly and Tig|http://www.bbc.co.uk/programmes/b01r7dfd
 >Wussywat the Clumsy Cat|http://www.bbc.co.uk/programmes/b060cb6v
 ZingZillas|http://www.bbc.co.uk/programmes/b00vk67s
+###########################################################################
+b01cc6m6,b01cz0p1,b046ts1d,b0511xc6,b0070s19,b00tw8ly,b05zfxkz,b03wh7g5,b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b00w1ddl,b04d0x6b,b05mrjzm,b069r3f6,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b037xx8b,b01bsr61,b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b0499l2q,b03gtt33,b064cqyf,b01r7dfd,b060cb6v
 
-b01cc6m6,b01cz0p1,b046ts1d,b0511xc6,b0070s19,b00tw8ly,b05zfxkz,b03wh7g5,b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b00w1ddl,b04d0x6b,b05mrjzm,
-
-get_iplayer --pid b069r3f6,b051wj60,b03tzxyg,b00xhyjf,b037xx8b,b01bsr61,b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b03gtt33,b064cqyf,b060cb6v --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+get_iplayer --pid b01cc6m6,b01cz0p1,b046ts1d,b0511xc6,b0070s19,b00tw8ly,b05zfxkz,b03wh7g5,b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b00w1ddl,b04d0x6b,b05mrjzm,b069r3f6,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b037xx8b,b01bsr61,b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b0499l2q,b03gtt33,b064cqyf,b01r7dfd,b060cb6v
+ --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 
 
 
