@@ -73,10 +73,9 @@ ZingZillas|http://www.bbc.co.uk/programmes/b00vk67s
 b01cc6m6,b01cz0p1,b046ts1d,b0511xc6,b0070s19,b00tw8ly,b05zfxkz,b03wh7g5,b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b00w1ddl,b04d0x6b,b05mrjzm,b069r3f6,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b037xx8b,b01bsr61,b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b0499l2q,b03gtt33,b064cqyf,b01r7dfd,b060cb6v
 
 已完成get_iplayer --pid b01cc6m6,b01cz0p1,b046ts1d,b0511xc6,b0070s19,b00tw8ly,b05zfxkz,b03wh7g5 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
-已完成get_iplayer --pid b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b00w1ddl,b04d0x6b --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
+已完成get_iplayer --pid b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b04d0x6b,b00w1ddl --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 已完成get_iplayer --pid b05mrjzm,b069r3f6,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b037xx8b,b01bsr61,b060cb6v --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
-已完成get_iplayer --pid b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b0499l2q,b03gtt33,b064cqyf,b01r7dfd --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
-
+已完成get_iplayer --pid b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b0499l2q,b03gtt33,b01r7dfd,b064cqyf --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 
 
 
@@ -87,13 +86,6 @@ Our Family
 Minibeast Adventure with
 My First
 Show Me Show Me
-
-
-
-
-
-
-
 
 
 
