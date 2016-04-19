@@ -22,6 +22,7 @@ get_iplayer --pvr
 get_iplayer --pid b04vs4r9 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbeebies/episode/b01bqv0d/raa-raa-the-noisy-lion-series-2-4-boing-boing
 --force
+--overwrite
 --subsonly
 --nocopyright
 --subdir,	Put Recorded files into Programme name subdirectory
@@ -54,3 +55,8 @@ Postman Pat http://www.bbc.co.uk/programmes/b01qv24w
 The Adventures of Abney & Teal http://www.bbc.co.uk/programmes/b01cc6m6
 get_iplayer --pid b00wg01c --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --get http://www.bbc.co.uk/iplayer/cbeebies/episode/b03v00zy/the-numtums-series-2-3-school-of-cool --modes=best --type=tv --subtitles --subdir --mkv --force
+
+get_iplayer --pid b0070m7p --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
+get_iplayer --pid b00dn06b --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required --force
+b00dn06b
+b01pf28z
