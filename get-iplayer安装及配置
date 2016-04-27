@@ -31,32 +31,10 @@ get_iplayer --modes=best --type=tv --subtitles http://www.bbc.co.uk/iplayer/cbee
 --update
 --series
 ######################################################
-Get Squiggling! Letters http://www.bbc.co.uk/programmes/b01qv20s
-Charlie and Lola http://www.bbc.co.uk/programmes/b0070s19
-Raa Raa the Noisy Lion http://www.bbc.co.uk/programmes/b01bsr61
-Sarah & Duck http://www.bbc.co.uk/programmes/b04drklx
-Alphablocks http://www.bbc.co.uk/programmes/b01cz0p1
-Tilly and Friends http://www.bbc.co.uk/programmes/b01ld6gq
-Boj http://www.bbc.co.uk/programmes/b0511xc6
-Clangers http://www.bbc.co.uk/programmes/b05zfxkz
-Get Squiggling http://www.bbc.co.uk/programmes/b009069f
-I Can Cook http://www.bbc.co.uk/programmes/b00w1ddl
-Dinopaws http://www.bbc.co.uk/programmes/b03wh7g5
-Everything's Rosie http://www.bbc.co.uk/programmes/b011mt5h
-Kate and Mim-Mim http://www.bbc.co.uk/programmes/b04d0x6b
-My Pet and Me http://www.bbc.co.uk/programmes/b06r15z2
-Nelly & Nora http://www.bbc.co.uk/programmes/b051wj60
-The Numtums http://www.bbc.co.uk/programmes/b03tzxyg        
-Octonauts http://www.bbc.co.uk/programmes/b00xhyjf
-Topsy and Tim http://www.bbc.co.uk/programmes/b0499l2q
-Wussywat the Clumsy Cat http://www.bbc.co.uk/programmes/b060cb6v
-In the Night Garden http://www.bbc.co.uk/programmes/b0070m7p
-Postman Pat http://www.bbc.co.uk/programmes/b01qv24w
-The Adventures of Abney & Teal http://www.bbc.co.uk/programmes/b01cc6m6
+
 get_iplayer --pid b00wg01c --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv
 get_iplayer --get http://www.bbc.co.uk/iplayer/cbeebies/episode/b03v00zy/the-numtums-series-2-3-school-of-cool --modes=best --type=tv --subtitles --subdir --mkv --force
 
 get_iplayer --pid b0070m7p --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
 get_iplayer --pid b00dn06b --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required --force
-b00dn06b
-b01pf28z
+
