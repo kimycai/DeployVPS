@@ -7,6 +7,15 @@ apt-get -y install ffmpeg{sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-ne
 sudo apt-get update
 sudo apt-get install ffmpeg}
 youtube-dl -U
+-------------------install libav-------------------
+sudo apt-get install yasm
+apt-get install git
+git clone git://git.libav.org/libav.git|git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
+cd libav
+./configure
+make
+sudo make install
+-------------------install libav-------------------
 
 sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
@@ -28,4 +37,7 @@ TillyandFriends
 wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/sarah-duck-series-b04drklx
 youtube-dl --write-sub --convert-subs ass -f best --batch-file sarah-duck-series-b04drklx
 youtube-dl --write-sub --convert-subs ass -f best https://www.youtube.com/watch?v=emR9sE0TapE
-youtube-dl -f 137 https://www.youtube.com/watch?v=emR9sE0TapE
+youtube-dl -f 140 https://www.youtube.com/watch?v=emR9sE0TapE
+youtube-dl -F https://www.youtube.com/watch?v=emR9sE0TapE
+sudo apt-get install avconv
+youtube-dl -f '(bestvideo+bestaudio/best)' https://www.youtube.com/watch?v=emR9sE0TapE
