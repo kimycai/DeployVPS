@@ -12,6 +12,7 @@ sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtub
 sudo chmod a+rx /usr/local/bin/youtube-dl
 
 youtube-dl
+-F
 --batch-file FILE
 --write-sub
 --format best
@@ -26,3 +27,5 @@ TillyandFriends
 批量下载
 wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/sarah-duck-series-b04drklx
 youtube-dl --write-sub --convert-subs ass -f best --batch-file sarah-duck-series-b04drklx
+youtube-dl --write-sub --convert-subs ass -f best https://www.youtube.com/watch?v=emR9sE0TapE
+youtube-dl -f 137 https://www.youtube.com/watch?v=emR9sE0TapE
