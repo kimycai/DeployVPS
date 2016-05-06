@@ -36,6 +36,6 @@ get_iplayer --pid b00wg01c --pid-recursive --modes=best --type=tv --subtitles --
 get_iplayer --get http://www.bbc.co.uk/iplayer/cbeebies/episode/b03v00zy/the-numtums-series-2-3-school-of-cool --modes=best --type=tv --subtitles --subdir --mkv --force
 
 get_iplayer --pid b00703vg --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
-get_iplayer --pid b04p2k9d --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
-get_iplayer --pid b00wkjrm --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required --force
+get_iplayer --pid b00jdlm2 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
+get_iplayer --pid b00796qj --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required --force
 
