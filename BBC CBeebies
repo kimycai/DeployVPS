@@ -70,8 +70,17 @@ Spot Bots Zoople Time|http://www.bbc.co.uk/programmes/b077nxkg
 >Woolly and Tig|http://www.bbc.co.uk/programmes/b01r7dfd
 >Wussywat the Clumsy Cat|http://www.bbc.co.uk/programmes/b060cb6v
 ZingZillas|http://www.bbc.co.uk/programmes/b00vk67s
-###########################################################################
-
+#############################CBBC#############################
+Arthur|http://www.bbc.co.uk/programmes/b006mhc1
+Danger Mouse|http://www.bbc.co.uk/programmes/b06g318r
+The Deep|http://www.bbc.co.uk/programmes/b074j7g6
+Dragons|http://www.bbc.co.uk/programmes/b03bxtqk
+Endangered Species|http://www.bbc.co.uk/programmes/b062xq1h
+OOglies|http://www.bbc.co.uk/programmes/b00mkzkd
+Shaun the Sheep|http://www.bbc.co.uk/programmes/b006z39g
+Sidekick|http://www.bbc.co.uk/programmes/b04gyy4t
+Zig and Zag|http://www.bbc.co.uk/programmes/b0798gq6
+#############################CBBC#############################
 
 get_iplayer --pid b01cc6m6,b01cz0p1,b046ts1d,b0511xc6,b0070s19,b00tw8ly,b05zfxkz,b03wh7g5,b04xdngw,b06wbhcb,b042181d,b05279n1,b04p2k9d --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
 get_iplayer --pid b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b04d0x6b,b00w1ddl,b07214ms,b0070m7p,b073m9yx,b01mtnrq,b01c6c2b --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
