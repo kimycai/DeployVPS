@@ -6,6 +6,28 @@ sudo apt-get install rtmpdump
 sudo get_iplayer --plugins-update
 wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/download_history
 mv download_history /root/.get_iplayer/
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+Command-line Interface (CLI)
+
+Download the latest release to working directory
+
+curl -kLO https://raw.github.com/get-iplayer/get_iplayer/master/get_iplayer
+
+NOTE: If your system does not have curl try wget. Replace curl -kLO with wget --no-check-certificate.
+
+Install get_iplayer CLI script
+
+install -m 755 ./get_iplayer /usr/local/bin
+
+NOTE: If you are not logged is as root, you will need to preface your install command with sudo.
+
+If you don't wish to install get_iplayer in $PATH, ensure your local copy is executable:
+
+chmod 755 ./get_iplayer
+
+Run CLI at a command prompt
+
+get_iplayer [...]
 ####################################################################
 get_iplayer
  "Programme Name"
