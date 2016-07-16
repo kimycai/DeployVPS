@@ -101,6 +101,9 @@ get_iplayer --pid b011mt5h,b04jrq5g,b009069f,b01qv20s,b06l1w5z,b04vs4r9,b04d0x6b
 get_iplayer --pid b05mrjzm,b069r3f6,b06r15z2,b051wj60,b03tzxyg,b00xhyjf,b037xx8b,b01bsr61,b00q2x2z,b060cb6v,b00sjsy1,b00tzxf7,b00jdlm2,b016nhh6,b01rh5p3,b03xtc88,b07krkg8,b00zf538 --pid-recursive --pid-recursive-noclips --tvmode=hls --subtitles --subdir
 get_iplayer --pid b01mbwrc,b05qvnyr,b04drklx,b01ld6gq,b00wg01c,b0499l2q,b03gtt33,b01r7dfd,b064cqyf,b01qv24w,b0790xqp,b00703vg,b0798kz4,b052sx2p --pid-recursive --pid-recursive-noclips --tvmode=hls --subtitles --subdir
 
+get_iplayer --pid b07krkg8 --pid-recursive --pid-recursive-noclips --tvmode=hvf --force --subtitles --subdir --overwrite
+get_iplayer --pid b04drklx --pid-recursive --pid-recursive-noclips --tvmode=hls --force --subtitles --subdir --overwrite
+
 get_iplayer --pid b006mhc1 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
 
 get_iplayer --pid b07hjq65 --pid-recursive --modes=best --type=tv --subtitles --subdir --mkv --subtitles-required
