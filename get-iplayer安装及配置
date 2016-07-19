@@ -2,10 +2,11 @@
 sudo apt-add-repository ppa:jon-hedgerows/get-iplayer
 sudo apt-get update
 sudo apt-get -y install get-iplayer
-sudo apt-get install rtmpdump
 sudo get_iplayer --plugins-update
+============================================================================================================
 wget --no-check-certificate https://raw.githubusercontent.com/kimycai/DeployVPS/master/download_history
 mv download_history /root/.get_iplayer/
+sudo apt-get install rtmpdump
 
 wget --no-check-certificate https://raw.github.com/get-iplayer/get_iplayer/master/get_iplayer
 install -m 755 ./get_iplayer /usr/local/bin
