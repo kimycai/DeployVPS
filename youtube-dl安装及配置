@@ -41,6 +41,8 @@ wget https://raw.githubusercontent.com/kimycai/DeployVPS/master/sarah-duck-serie
 youtube-dl --write-sub --convert-subs ass -f best --batch-file sarah-duck-series-b04drklx
 youtube-dl --write-sub --convert-subs ass -f best https://www.youtube.com/watch?v=emR9sE0TapE
 youtube-dl -f 140 https://www.youtube.com/watch?v=emR9sE0TapE
-youtube-dl -F https://www.youtube.com/watch?v=emR9sE0TapE
+youtube-dl -F https://www.youtube.com/playlist?list=PLex2rFvT0W9YX7BcUYbmW0C7mXKbduaP-
 sudo apt-get install avconv
-youtube-dl -f '(bestvideo+bestaudio/best)' https://www.youtube.com/watch?v=emR9sE0TapE
+youtube-dl -f '(bestvideo+bestaudio/best)' https://www.youtube.com/watch?v=Ppu4oAqpSSQ&list=PL_gxBUetXKOk7oruzO5-5b42yZJHwBX8W&index=27
+--playlist-reverse https://www.youtube.com/playlist?list=PLex2rFvT0W9YX7BcUYbmW0C7mXKbduaP-
+https://www.youtube.com/playlist?list=PLex2rFvT0W9YX7BcUYbmW0C7mXKbduaP-
