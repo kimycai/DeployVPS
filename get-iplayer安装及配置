@@ -11,6 +11,16 @@ sudo apt-get install rtmpdump
 wget --no-check-certificate https://raw.github.com/get-iplayer/get_iplayer/master/get_iplayer
 install -m 755 ./get_iplayer /usr/local/bin
 chmod 755 ./get_iplayer
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Ubuntu 14.04/12.04, Mint 17/13
+
+Users of these releases and their derivatives should be able to install and configure a static build of ffmpeg using the commands below as a guide. Change "64bit" to "32bit" for 32-bit systems.
+
+wget http://johnvansickle.com/ffmpeg/releases/ffmpeg-release-64bit-static.tar.xz
+tar -xf ffmpeg-release-64bit-static.tar.xz
+sudo install -m 755 ffmpeg-*-static/ffmpeg /usr/local/bin
+get_iplayer --prefs-add --ffmpeg=/usr/local/bin/ffmpeg
 ×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 Command-line Interface (CLI)
 
