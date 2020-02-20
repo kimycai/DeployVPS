@@ -1,0 +1,8 @@
+在DigitalOcean上新建一个VPS服务器
+获取VPS服务器的IP地址
+用Putty的SSH协议来连接VPS服务器
+连上之后，可能会让你重置密码
+重置密码后，输入粘贴命令：bash <(curl -sL https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_ssr.sh)
+按屏幕提示配置服务
+配置完毕后，服务器会重新启动
+用ShadowsocksR来连接，并开启全局模式
